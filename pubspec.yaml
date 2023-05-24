@@ -4,10 +4,11 @@ version: 0.0.1
 homepage:
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
+  rive: ^0.11.1
   flutter:
     sdk: flutter
 
