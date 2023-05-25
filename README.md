@@ -25,12 +25,11 @@ import 'package:animated_rating_bar/animated_rating_bar.dart';
 ```
 
 ## Demo
-<p float="left">
-<img src="demo1.gif" width="200" height="400" />
-<img src="demo2.gif" width="200" height="400" />
-<img src="demo3.gif" width="200" height="400" />
-<img src="dark_mode.gif" width="200" height="400" />
-  </p>
+![DEMO1](demo1.gif)
+![DEMO2](demo2.gif)
+![DEMO3](demo3.gif)
+![DEMO4](dark_mode.gif)
+
 
 ## Special Thanks To Colleagues & 
 1. [Rive](https://rive.app/community/3145-6649-star-rating/)
