@@ -30,6 +30,7 @@ import 'package:animated_rating_bar/animated_rating_bar.dart';
 ![DEMO3](demo3.gif)
 ![DEMO4](dark_mode.gif)
 
+
 ## Special Thanks To Colleagues & 
 1. [Rive](https://rive.app/community/3145-6649-star-rating/)
 2. [Guidorosso](https://rive.app/@guidorosso/)
