@@ -1,4 +1,4 @@
-## 0.0.3
+## 0.0.5
 
 * Animation added to normal rating bar.
 * Demo Modified.
