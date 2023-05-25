@@ -1,39 +1,47 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Animated Rating Bar
+[![codersangam - animated_rating_bar](https://img.shields.io/static/v1?label=codersangam&message=animated_rating_bar&color=green&logo=github)](https://github.com/codersangam/animated_rating_bar "Go to GitHub repo")
+[![stars - animated_rating_bar](https://img.shields.io/github/stars/codersangam/animated_rating_bar?style=social)](https://github.com/codersangam/animated_rating_bar)
+[![forks - animated_rating_bar](https://img.shields.io/github/forks/codersangam/animated_rating_bar?style=social)](https://github.com/codersangam/animated_rating_bar)
+[![GitHub release](https://img.shields.io/github/release/codersangam/animated_rating_bar?include_prereleases=&sort=semver&color=purple)](https://github.com/codersangam/animated_rating_bar/releases/)
+[![License](https://img.shields.io/badge/License-MIT-purple)](#license)
+[![issues - animated_rating_bar](https://img.shields.io/github/issues/codersangam/animated_rating_bar)](https://github.com/codersangam/animated_rating_bar/issues)
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
+## Intro
+A customizable animated rating bar for flutter.
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+In the `pubspec.yaml` of your flutter project, add the following dependency:
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
+```yaml
+dependencies:
+  ...
+  animated_rating_bar: <latest_version>
 ```
 
-## Additional information
+In your library add the following import:
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+```dart
+import 'package:animated_rating_bar/animated_rating_bar.dart';
+```
+
+## Demo
+![First Demo] (assets/demo1.gif)
+![Second Demo] (assets/demo2.gif)
+![Third Demo] (assets/demo3.gif)
+![Dark Mode Demo] (assets/dark_mode.gif)
+
+## Special Thanks To Colleagues & 
+1. [Rive] (https://rive.app/community/3145-6649-star-rating/)
+2. [Guidorosso] (https://rive.app/@guidorosso/)
+
+## License
+
+Released under [MIT](/LICENSE) by [@codersangam](https://github.com/codersangam).
+
+## Contribution
+
+1. Fork it (https://github.com/codersangam/animated_rating_bar/fork)
+2. Create your feature branch (git checkout -b feature/fooBar)
+3. Commit your changes (git commit -am 'Add some fooBar')
+4. Push to the branch (git push origin feature/fooBar)
+5. Create a new Pull Request

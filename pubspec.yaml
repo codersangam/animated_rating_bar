@@ -1,7 +1,8 @@
 name: animated_rating_bar
-description: A new Flutter package project.
+description: Animated Rating Bar can be used for rating which enhaces User Experince by displaying beautiful animation like glows and sparks.
 version: 0.0.1
-homepage:
+repository: https://github.com/codersangam/animated_rating_bar
+examples: https://github.com/codersangam/animated_rating_bar/tree/main/example
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
