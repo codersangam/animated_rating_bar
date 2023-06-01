@@ -74,7 +74,7 @@ class _AnimatedRatingBarState extends State<AnimatedRatingBar> {
       height: widget.height ?? 40,
       width: widget.width ?? 140,
       child: RiveAnimation.asset(
-        "assets/new_rating_animation.riv",
+        "packages/animated_rating_bar/assets/new_rating_animation.riv",
         onInit: (artboard) {
           stateMachineController = StateMachineController.fromArtboard(
             artboard,
