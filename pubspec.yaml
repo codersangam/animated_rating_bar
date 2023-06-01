@@ -1,6 +1,6 @@
 name: animated_rating_bar
 description: Animated Rating Bar can be used for rating which enhaces User Experince by displaying beautiful animation like glows and sparks.
-version: 0.0.7
+version: 0.0.8
 repository: https://github.com/codersangam/animated_rating_bar
 examples: https://github.com/codersangam/animated_rating_bar/tree/main/example
 
@@ -23,10 +23,9 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # To add assets to your package, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - packages/animated_rating_bar/assets/new_rating_animation.riv
   #   - images/a_dot_ham.jpeg
   #
   # For details regarding assets in packages, see
